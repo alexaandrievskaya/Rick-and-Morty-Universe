@@ -36,7 +36,7 @@ npm start
 font-family: 'Poppins', sans-serif;
 font-family: 'Ubuntu', sans-serif;
 ```
-Tutorial https://github.com/JoyShaheb/React-Projects
-Video tutorial https://youtu.be/35QCQnohLg8
-Rick and Morty Api https://rickandmortyapi.com/
-For deploy used Vercel https://vercel.com/
+<br>Tutorial https://github.com/JoyShaheb/React-Projects
+<br>Video tutorial https://youtu.be/35QCQnohLg8
+<br>Rick and Morty Api https://rickandmortyapi.com/
+<br>For deploy used Vercel https://vercel.com/
